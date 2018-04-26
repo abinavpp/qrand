@@ -1,6 +1,9 @@
+/* 
+ * SPDX-License-Identifier: GPL-2.0+
+ * Copyright (C) 2017 Abinav Puthan Purayil
+ * */
+
 %{
-	/* author : Abinav Puthan Purayil 
-	 * email : abinavpp@gmail.com */
 	#include <stdio.h>
 	#include "qrand.h"
 %}

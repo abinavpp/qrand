@@ -1,3 +1,8 @@
+/* 
+ * SPDX-License-Identifier: GPL-2.0+
+ * Copyright (C) 2017 Abinav Puthan Purayil
+ * */
+
 #include <string.h>
 #include <stdlib.h>
 #include <stdarg.h>

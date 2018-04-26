@@ -1,6 +1,7 @@
-/* qrand v0.1
- * author : Abinav Puthan Purayil 
- * email : abinavpp@gmail.com */
+/* 
+ * SPDX-License-Identifier: GPL-2.0+
+ * Copyright (C) 2017 Abinav Puthan Purayil
+ * */
 
 #include <ctype.h>
 #include <fcntl.h>
