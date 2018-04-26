@@ -1,0 +1,8 @@
+a.out
+qrand
+*.swp
+*.o
+*.d
+lex.yy.c
+qbank.txt
+qskip.txt
